@@ -1,0 +1,24 @@
+title: Profile
+
+pages: true
+
+files: true
+    sortable: true
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  coverImage:
+    label: Cover Image
+    type: image
+
+  text:
+    label: Text
+    type: textarea
+    help: Embed content go here embedresponsively.com
+
+  year:
+    label: Year
+    type: text
