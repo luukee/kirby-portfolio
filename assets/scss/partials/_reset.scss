@@ -1,0 +1,18 @@
+body {
+    background-color: #f6f6f6;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #ae2b2b;
+  transition: color 0.3s ease;
+}
+
+a > img {
+    @include boxShadow;
+}

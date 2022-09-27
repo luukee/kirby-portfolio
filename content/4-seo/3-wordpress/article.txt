@@ -1,0 +1,99 @@
+Title: WordPress
+
+----
+
+Coverimage: wordpress-image-large-2.png
+
+----
+
+Date: 2018-09-14
+
+----
+
+Text: 
+
+### Enugue Scripts by Chris Coyier
+https://css-tricks.com/snippets/wordpress/include-jquery-in-wordpress-theme/
+`
+if (!is_admin()) add_action("wp_enqueue_scripts", "my_jquery_enqueue", 11);
+function my_jquery_enqueue() {
+   wp_deregister_script('jquery');
+   wp_register_script('jquery', "http" . ($_SERVER['SERVER_PORT'] == 443 ? "s" : "") . "://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js", false, null);
+   wp_enqueue_script('jquery');
+}
+`
+### (link: http://themecheck.org/ text: Theme Check target:_blank)
+Validate your theme.
+
+### (link: https://www.jitbit.com/unusedcss/ text: Unused CSS target:_blank)
+Scan your whole site for unused CSS so you can remove them!
+
+### (link: https://developer.wordpress.org/themes/template-files-section/page-template-files/#creating-custom-page-templates-for-global-use text: Creating custom page templates. target:_blank)
+
+### (link: https://generatewp.com/ text: Generate WP Snippets target:_blank)
+
+### (link: https://wordpress.org/plugins/pluginception/ text: Create plugins as you develop target:_blank)
+
+### Best practice with passive event listeners
+This article by (link: https://stackoverflow.com/questions/45974128/wordpress-and-best-practice-with-passive-event-listeners text: Web Dev Guy target:_blank).
+`
+(function() {
+  var supportsPassive = eventListenerOptionsSupported();  
+
+  if (supportsPassive) {
+    var addEvent = EventTarget.prototype.addEventListener;
+    overwriteAddEvent(addEvent);
+  }
+
+  function overwriteAddEvent(superMethod) {
+    var defaultOptions = {
+      passive: true,
+      capture: false
+    };
+
+    EventTarget.prototype.addEventListener = function(type, listener, options) {
+      var usesListenerOptions = typeof options === 'object';
+      var useCapture = usesListenerOptions ? options.capture : options;
+
+      options = usesListenerOptions ? options : {};
+      options.passive = options.passive !== undefined ? options.passive : defaultOptions.passive;
+      options.capture = useCapture !== undefined ? useCapture : defaultOptions.capture;
+
+      superMethod.call(this, type, listener, options);
+    };
+  }
+
+  function eventListenerOptionsSupported() {
+    var supported = false;
+    try {
+      var opts = Object.defineProperty({}, 'passive', {
+        get: function() {
+          supported = true;
+        }
+      });
+      window.addEventListener("test", null, opts);
+    } catch (e) {}
+
+    return supported;
+  }
+})();
+`
+
+## (link: https://www.inboundnow.com/how-to-properly-set-up-wordpress-301-redirects/ text: Redirects target:_blank)
+(image: edit_the_htaccess_file.png)
+
+----
+
+Description: Checklist, links and code snippets related to WordPress Development.
+
+----
+
+Keywords: 
+
+----
+
+Ltextarea: 
+
+----
+
+Rtextarea: 

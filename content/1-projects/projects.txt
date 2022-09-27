@@ -1,0 +1,55 @@
+Title: Projects
+
+----
+
+Text: 
+
+----
+
+Description: Freelance Web Developer and creative enthusiast Luke Carl Hartman. Design & develop websites from the ground up. Contact me luke@lukecarlhartman.com
+
+----
+
+Keywords: web development, web design, creative projects, carl hartman, luke carl hartman, WordPress, Squarespace, html, css, JavaScript, jQuery, animation, web design, culver city freelance web developer
+
+----
+
+Introtitle: Howdy! <br> My name is Luke. <br>I create things on computers.
+
+----
+
+Coverimage: 
+
+----
+
+Introtext: 
+
+Developing searchable, mobile-first websites for your enjoyment.
+
+<ul class="capabilities">
+    <li>(link: http://lukecarlhartman.com/wordpress text: Wordpress)</li>
+    <li>(link: http://lukecarlhartman.com/shopify text: Shopify)</li>
+    <li>kirby</li>
+    <li>html</li>
+    <li>css</li>
+    <li>javascript</li>
+    <li>jquery</li>
+    <li>liquid</li>
+    <li>(link: http://lukecarlhartman.com/seo text: SEO)</li>
+    <li>schema</li>
+    <li>adobecreativesuite</li>
+    <li>googlesuite</li>
+    <li>(link: http://lukecarlhartman.com/projects/video text:video)</li>
+    <li>(link: http://lukecarlhartman.com/squarespace text: Squarespace)</li>
+    <li>sass</li>
+    <li>Klaviyo</li>
+    <li>scss</li>
+    <li>foundation.zurb</li>
+    <li>CSSanimations</li>
+    <li>php</li>
+    <li>(link: http://lukecarlhartman.com/projects/email-dev text: emaildev)</li>
+    <li>mailchimp</li>
+    <li>constantcontact</li>
+    <li>music</li>
+    <li>reason</li>
+</ul>

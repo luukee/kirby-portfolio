@@ -1,0 +1,89 @@
+Title: Appreciation
+
+----
+
+Coverimage: luke-carl-hartman-appreciation-for-those-that-helped-me-thank-you.jpg
+
+----
+
+Date: 2018-06-14
+
+----
+
+Text: 
+
+I've wanted to thank all the wonderful developers that have dedicated their time (which I know they're having fun) to create snippets, plugins, frameworks, or just excellent (link: https://codepen.io/ text: Codepens)!
+
+I never really had the chance till now (working freelance and stuff) to give them the appreciation the deserve. Granted this will be an ongoing blog post for all you readers out there 😉! 
+
+No kiddin.
+
+## (link: http://colormind.io/bootstrap/ text: Colormind target:_blank)
+A great little tool for working with your colors. If you have a pair of colors in mind, add them to the swatches, lock your chosen colors and hit the "Generate" button. Something is bound to happen :)
+(image: luke-carl-hartman-appreciation-colormind.png alt: luke carl hartman colormind color helper target:_blank link: http://colormind.io/bootstrap/ )
+
+## (link: https://imageattributespro.com/?utm_source=iaff-basic&utm_medium=support-tab text: WordPress Image Attributes target:_blank)
+Automate your image Title, Caption, Description and Alt Text for all existing and future images. Very nice plugin.
+(image: wordpress-bulk-image-attribute-title-ext.png target:_blank alt: wordpress bulk image attribute title and description automation link: https://imageattributespro.com/?utm_source=iaff-basic&utm_medium=support-tab)
+
+## Leaflet Maps
+Leaflet looks sooooo cool. Cant wait to play with it!
+(image: leafletjs.com-laptop-with-hidpi-screen-1.png alt:leaflet.js link:https://leafletjs.com/ target:_blank)
+
+## Schema Markup Generator
+Super rad little dude to help build your site schema and learn the syntax.
+(image: schema-markup-generator-luke-carl-hartman-appreciation.png link:https://technicalseo.com/seo-tools/schema-markup-generator/ alt:schema markup generator luke carl hartman appreciation target:_blank)
+
+
+## SVG Optimization Tool
+(image: svgomg-perfect-svg-optimization-tool.png link:https://jakearchibald.github.io/svgomg/ alt: svgomg perfect svg optimization tool target:_blank)
+
+## SEO Audit Tool
+(image: luke-carl-hartman-appreciation-for-seomator-seo-audit-tool.jpg link:https://seomator.com/free-seo-audit-tool text: SEOMATOR target:_blank alt:SEOMATOR frontpage a great SEO audit tool )
+
+## Treehouse
+I have been completing the Front End Development track on Treehouse for the past year and I truly appreciate not only the great content but also the great interface and teachers. I highly recommend it.
+$25/month, jump on a track and stick with it. Do it every day. Don't ever miss a day (I learned that for sure).
+(image: i-appreciate-treehouse-learning-luke-carl-hartman.jpg link:https://teamtreehouse.com/ target:_blank)
+
+## Lozad Lazy Load
+(image: thank-you-lozad-banner.jpg link: https://github.com/ApoorvSaxena/lozad.js )
+
+## Favicon Generator
+Want to create your site (link: https://en.wikipedia.org/wiki/Favicon text: favicon's target:_blank)? Dan's Tools has always been my go-to. Thanks Dan. (link: https://www.favicon-generator.org/editor/ text: Here's what it can do for you. target:_blank) Check it out!
+(image: thank-you-dans-tools-favicon-generator.jpg link: https://www.favicon-generator.org/)
+
+## Spiral Banner Thingy by Carpenumidium
+This is what I use on my homepage to show what I have experience in. Thanks (link: https://codepen.io/carpenumidium/ text: Carpenumidium target:_blank) for creating a great little SCSS animation. You are a scholar. I found this animation on the (link: https://codemyui.com/ text: Code My UI) (link: https://codemyui.com/tag/text-animation/ text: Text Animation Design Inspiration target:_blank) page.
+(image: carpenumidium-codepen-css-animation-luke-carl-hartman-1.jpg link: https://codemyui.com/tag/text-animation/)
+
+## Tinypng
+Love this Panda. Super easy and quick to downsize png's and jpg's.
+(image: luke-carl-hartman-giving-appreciation-to-tinypng.png link: https://tinypng.com/ target:_blank)
+
+## Upcity recognition
+Upcity selected me as one of the Website Development Companies in Long Beach, CA (even though I live in Culver City, lol). Here's the badge they sent me, isin't it nice?
+(image: upcity-recognition.webp link: https://upcity.com//website-development/long-beach-ca?spotlight=profiles/web-dev-with-luke/los-angeles target:_blank)
+
+## (link: https://www.youtube.com/watch?v=sX5g0kidk3Y text: Apple Computers)
+First and foremost!  
+
+<div class="video-responsive">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sX5g0kidk3Y?controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+----
+
+Description: Thank you to all the wonderful developers that have dedicated their time to create snippets, plugins, frameworks, or just plain Codepens. Checkout my list.
+
+----
+
+Keywords: frameworks, plugins, snippets, thank you, apple computers,
+
+----
+
+Ltextarea: 
+
+----
+
+Rtextarea: 

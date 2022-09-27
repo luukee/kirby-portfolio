@@ -1,0 +1,49 @@
+Title: Nouri
+
+----
+
+Date: 
+
+----
+
+Coverimage: dailynouri.com-laptop-with-hidpi-screen-1.png
+
+----
+
+Text: 
+
+Working with the wonderful Nouri team as their sole developer. 
+
+Visit their site and see the real deal :) 
+(link: https://dailynouri.com text: dailynouri.com target:_blank)
+
+Content coming soon. . .
+
+
+<style>
+.project-section img {
+    -o-object-fit: contain;
+    object-fit: contain;
+}
+.project-section:nth-child(2n+2) img {
+      -o-object-fit: cover;
+    object-fit: cover;
+}
+.project-section:nth-child(2n+3) .img-cover {
+  box-shadow: none;
+}
+main ul {
+    text-align: left;
+    list-style-position: inside;
+    width: 50vw;
+    margin: 0 auto;
+}
+</style>
+
+----
+
+Description: Working with the wonderful Nouri team as their sole developer. Contact them for a review of my work
+
+----
+
+Keywords: 

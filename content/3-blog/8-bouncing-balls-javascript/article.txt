@@ -1,0 +1,27 @@
+Title: Bouncing Balls JavaScript
+
+----
+
+Coverimage: luke-carl-hartman-javascript-practice-bouncing-balls-1.jpg
+
+----
+
+Date: 2018-08-30
+
+----
+
+Text: 
+
+<div class='embed-container img-cover'><iframe src='https://luukee.github.io/bouncing-balls/' style='border:0'></iframe></div>
+
+Built this from Mozilla's (link: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_building_practice text:JavaScript Object Building Practice  target:blank).
+
+## (link: https://github.com/luukee/bouncing-balls text: https://github.com/luukee/bouncing-balls target:_blank)
+
+----
+
+Description: 
+
+----
+
+Keywords: mozilla, bouncing balls, javascript animation, html canvas, object building practice, javascript practice

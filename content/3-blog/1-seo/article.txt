@@ -1,0 +1,77 @@
+Title: SEO
+
+----
+
+Coverimage: seo-luke-carl-hartman.jpg
+
+----
+
+Date: 2021-11-09
+
+----
+
+Text: A little list of the tools, terms and links I use in my front-end SEO.
+
+----
+
+Description: 
+
+----
+
+Keywords: 
+
+----
+
+Columntext: This content
+
+----
+
+Columns: left text example
+
+----
+
+Sidebar: 
+
+----
+
+Ltextarea: 
+
+## The Ongoing SEO List
+
+- Keyword research
+- meta tags and description
+- SEO plugin config
+- image optimize & naming
+- submit search engine crawls
+- url redirects
+- site performance
+- external linking 
+- accessibility optimization
+- links with descriptive text
+- pages with valid hreflang
+- pages with valid rel=canonical
+- legible font sizes
+- page is mobile friendly
+- structured data is valid
+
+----
+
+Rtextarea: 
+
+## SEO Tools
+
+- Google Analytics
+- (link: https://trends.google.com/trends/?geo=US text: Google Trends target:_blank)
+- Pages per visit, average time on site and bounce range.
+- Google Tag Manager
+- Google Search Console
+- Rank Math
+
+## The Articles
+- (link: https://docs.google.com/document/d/1--vn46NPJ5WniV13I-UVhukx134mles-AqQkbrV8wKk/edit?usp=sharing text: SEO Tweaks target:_blank)
+- SEO friendly URL (human readable)
+- keyword in the URL
+ 
+## What content are our visitors looking at?
+
+- (link: http://lukecarlhartman.com/seo/website-audit text: SEO Website Audit)

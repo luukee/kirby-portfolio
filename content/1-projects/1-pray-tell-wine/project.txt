@@ -1,0 +1,36 @@
+Title: Pray Tell Wine
+
+----
+
+Date: 08/13/2019
+
+----
+
+Coverimage: www.praytellwines.com-1.png
+
+----
+
+Text: 
+
+Designed and developed this website on (link: https://www.squarespace.com/ text: Squarespace target:_blank) for the owners of (link: https://www.praytellwines.com/ text: Pray Tell Wine target:_blank). Project completed August 13, 2019.
+<h3>Tech:</h3>
+<ul style="list-style:none;padding-left: 0">
+<li>(link: https://www.sketch.com/ text: Sketch target:_blank)</li>
+<li>(link: https://sketch.cloud/ text: Sketch Cloud target:_blank)</li>
+<li>(link: https://code.visualstudio.com/ text: Visual Studio Code target:_blank)</li>
+<li>(link: https://www.jsdelivr.com/ text:jsDelivr target:_blank)</li>
+</ul>
+
+(image: www.praytellwines.com.png)
+
+<h4>
+(link: https://www.praytellwines.com/ text: Visit the site target:_blank)
+</h4>
+
+----
+
+Description: Designed and developed this website on Squarespace for the owners of www.praytellwines.com.
+
+----
+
+Keywords: squarespace develop, squarespace design,

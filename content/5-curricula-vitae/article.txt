@@ -1,0 +1,45 @@
+Title: Curricula Vitae
+
+----
+
+Text: 
+
+<div class="grid-x">
+<div class="cell medium-6">
+(image: luke-c-hartman-web-development-resume.jpg link: https://lukecarlhartman.com/content/5-curricula-vitae/luke-c-hartman-web-development-resume.pdf?1529687486 target: _blank)
+(link: https://lukecarlhartman.com/content/curricula-vitae/luke-c-hartman-web-development-resume.pdf text: Curricula Vitae target: _blank class: align-center)
+
+</div>
+<div class="cell medium-6">
+(image: mimo-web-dev-certification.jpg link: https://lukecarlhartman.com/content/curricula-vitae/luke-carl-hartman-mimo-web-dev-cert.pdf target: _blank)
+(link: https://lukecarlhartman.com/content/curricula-vitae/luke-carl-hartman-mimo-web-dev-cert.pdf text: Mimo Certification target: _blank class: align-center)
+</div>
+<div class="cell medium-6">
+(image: luke-carl-hartman-github-profile.png link: https://github.com/luukee target: _blank)
+(link: https://github.com/luukee text: GitHub Profile target: _blank class: align-center)
+</div>
+</div>
+
+----
+
+Coverimage: 
+
+----
+
+Date: 2021-11-09
+
+----
+
+Description: 
+
+----
+
+Keywords: 
+
+----
+
+Ltextarea: 
+
+----
+
+Rtextarea: 

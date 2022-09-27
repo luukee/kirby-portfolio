@@ -1,0 +1,51 @@
+Title: About
+
+----
+
+Email: kaitlin.moor11@gmail.com
+
+----
+
+Description: Luke Carl Hartman web developer/designer and creative enthusiast. CSS, HTML, Javascript, PHP. In that order. I love to make things happen on my computer.
+
+----
+
+Keywords: web, web developer, web designer, designer, css, html, javascript, creative enthusiasm
+
+----
+
+Emailtext: Email me
+
+----
+
+Contacts: 
+
+-
+  firstname: dfad
+  lastname: kdadlkfj
+  email: lukecarlhartman@gmail.com
+  message: adfadf
+
+----
+
+Coverimage: lukecarlhartman-about.jpg
+
+----
+
+Profileimage: 
+
+----
+
+Text: 
+
+I grew up with my three siblings on my parents farm in Missouri. The farm was a  lot of fun, but I realized I like making things happen on computers.
+
+So here we are today, you are reading this while I'm building (or learning) something on my laptop. Either in my garage or in my kitchen :)
+
+You can contact me through this form, although I prefer you email me at lukecarlhartman@gmaildotcom. Or you can (link: http://lukecarlhartman.com/hire-me text:submit a web development request here). Thanks!!
+
+**(link: http://lukecarlhartman.com/content/2-about/luke-carl-hartman-resume.pdf text: • Download my resume target:_blank)**
+**(link: https://lukecarlhartman.com/curricula-vitae text: • Curricula Vitae)**
+**(link: https://github.com/luukee text: • GitHub Profile target: _blank)**
+
+<sub>** the header image is to show that I am only a reflection of my friends. I love them.</sub>

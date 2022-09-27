@@ -1,0 +1,72 @@
+Title: Website Audit Checklist
+
+----
+
+Text: 
+
+Check that only one version of your site is browsable.
+
+Run a website crawl.
+
+Check for indexation issues.
+
+Check that the site ranks for their brand name.
+
+Perform on-page SEO checks for the main pages of site.
+
+Check on-page issues in the crawl report.
+
+Check for duplicate and thin content.
+
+Check that the site (and individual pages) load fast.
+
+Check for structured data errors.
+
+Analyze organic search traffic.
+
+Check that keyword rankings are headed in the correct direction.
+
+Find low-hanging keyword ranking opportunities.
+
+Analyze the site's backlinks.
+
+Find and fix broken links to-and-from the site.
+
+Find content gaps.
+
+Conduct a full content audit.
+
+<h2>(link: http://lukecarlhartman.com/seo/almamater-seo text: Example :: Interactive Website Audit )</h2>
+<h4>A simple example of a prior website audit.</h4>
+
+<style>
+header.medium-12.text-entry p {
+    text-align: left;
+    font-size: 1.5rem;
+    padding: 0;
+}
+
+header.medium-12.text-entry p:before {position: absolute;left: -20px;font-family: "Font Awesome 5 Free";font-weight: 900;content: "\f14a";color: #a2cad6;}
+
+header.medium-12.text-entry {
+    position: relative;
+    max-width: 80vw;
+    margin: 0 auto;
+}
+</style>
+
+----
+
+Date: 
+
+----
+
+Coverimage: website-audit-code-on-screen.jpg
+
+----
+
+Description: Checklist for website audit.
+
+----
+
+Keywords: website audit checklist

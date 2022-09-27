@@ -1,0 +1,33 @@
+Title: Comedy Search Trends
+
+----
+
+Coverimage: jjim-licking-comedy-1.jpg
+
+----
+
+Date: 
+
+----
+
+Text: 
+
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1605_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"comedy dynamics","geo":"US","time":"today 12-m"},{"keyword":"comedy distribution","geo":"US","time":"today 12-m"},{"keyword":"comedy production","geo":"US","time":"today 12-m"},{"keyword":"comedy film production","geo":"US","time":"today 12-m"},{"keyword":"comedy film distribution","geo":"US","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"geo=US&q=comedy%20dynamics,comedy%20distribution,comedy%20production,comedy%20film%20production,comedy%20film%20distribution&date=today 12-m,today 12-m,today 12-m,today 12-m,today 12-m","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
+
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1605_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"comedy dynamics","geo":"","time":"today 12-m"},{"keyword":"comedy distribution","geo":"","time":"today 12-m"},{"keyword":"comedy production","geo":"","time":"today 12-m"},{"keyword":"comedy film production","geo":"","time":"today 12-m"},{"keyword":"comedy film distribution","geo":"","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"q=comedy%20dynamics,comedy%20distribution,comedy%20production,comedy%20film%20production,comedy%20film%20distribution&date=today 12-m,today 12-m,today 12-m,today 12-m,today 12-m","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
+
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1605_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("GEO_MAP", {"comparisonItem":[{"keyword":"comedy dynamics","geo":"US","time":"today 12-m"},{"keyword":"comedy distribution","geo":"US","time":"today 12-m"},{"keyword":"comedy production","geo":"US","time":"today 12-m"},{"keyword":"comedy film production","geo":"US","time":"today 12-m"},{"keyword":"comedy film distribution","geo":"US","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"geo=US&q=comedy%20dynamics,comedy%20distribution,comedy%20production,comedy%20film%20production,comedy%20film%20distribution&date=today 12-m,today 12-m,today 12-m,today 12-m,today 12-m","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
+
+(image: comedy-search-results-google1.png)
+
+(image: comedy-search-results-google2.png)
+
+(image: comedy-search-results-google3.png)
+
+----
+
+Description: 
+
+----
+
+Keywords: 

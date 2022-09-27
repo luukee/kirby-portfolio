@@ -1,0 +1,11 @@
+
+// structuring a sass file: http://thesassway.com/beginner/how-to-structure-a-sass-project
+@import "partials/base",
+		"partials/reset",
+		"partials/typography",
+		"partials/layout",
+		"partials/nav",
+		"partials/forms",
+		"vendor/hamburgerMenu",
+		"vendor/youtube",
+		"vendor/animatescroll";
